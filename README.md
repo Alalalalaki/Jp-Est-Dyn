@@ -1,0 +1,1 @@
+This repository provides the replication package for the paper: "[Zhu, X. Establishment dynamics in post-war Japan: missing entry and shrinking size. JER (2025)](https://doi.org/10.1007/s42973-025-00194-9)."
