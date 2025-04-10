@@ -3,7 +3,7 @@ DATA_CODE_PATH = Data/Scripts/
 ANALYSIS_CODE_PATH = Analysis/Scripts/
 MODEL_CODE_PATH = Model/Scripts/
 
-# Output paths - based on your code, these appear to be the paths you use
+# Output paths 
 DATA_OUTPUT_PATH = Data/Output/
 FIGURES_PATH = Analysis/Figures/
 TABLES_PATH = Model/Tables/
