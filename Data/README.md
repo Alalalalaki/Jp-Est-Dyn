@@ -1,0 +1,1 @@
+Raw data is not included due to its large size. All scripts used for data collection and cleaning are available in `Data/Scripts/`. Part of the raw data are manually digitized from historical documents and is available upon request by contacting the author. All processed datasets used for empirical analysis and model simulations are available in `Data/Output/`.
